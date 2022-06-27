@@ -1,0 +1,11 @@
+.Header {
+    background-color: seagreen;
+    grid-column: 1/3;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.Header h1 {
+    color: white;
+}
+
